@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: yellow;
+    font-size: 30px;
+    font-family: 'VT323', monospace;
+}
+#finished {
+float: right;
+}
+#Order {
+    float: left;
+}
+button {
+    height: 1cm;
+    width: 2cm;
+}
